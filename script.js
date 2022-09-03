@@ -428,3 +428,9 @@ const thiseg ={
       }
 }
 console.log(thiseg.fullname());  /* Output: Peter Parker */
+
+/* 8 bits = 1 Byte
+   1024 Bytes = 1 Kilobyte
+   1024 Kilobytes = 1 Megabyte
+   1024 Megabytes = 1 Gigabyte
+   1024 Gigabytes = 1 Terabyte */
