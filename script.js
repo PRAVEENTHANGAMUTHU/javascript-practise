@@ -283,8 +283,8 @@ switch (day) {
   case "Tuesday":
     console.log("Today is Tuesday");
     break;
-  case "WedThursday":
-    console.log("Today is WedThursday");
+  case "Wednesday":
+    console.log("Today is Wednesday");
     break;
   case "Thursday":
     console.log("Today is Thursday");
